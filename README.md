@@ -7,4 +7,5 @@
 - fix alienware $599
 - upgrade alienware $999
 - tv $899
-- tv stand #299
+- tv stand $299
+- tv speakers $199
