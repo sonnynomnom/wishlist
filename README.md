@@ -8,6 +8,8 @@
 - fix alienware $599
 - upgrade alienware $999
 
+---
+
 - telecaster $1499
 - orange amp $899
 - pedals
