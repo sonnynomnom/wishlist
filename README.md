@@ -4,6 +4,8 @@
 
 - [prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395
 
+- stools
+
 ---
 
 - fix alienware $599
