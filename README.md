@@ -2,7 +2,7 @@
 
 - buy daniel a nice gaming computer
 
--[x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
+- [x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
 
 - stools
 
