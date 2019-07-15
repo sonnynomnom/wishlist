@@ -1,7 +1,6 @@
 # 2019 sonny's wishlist
 
 - [x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
-
 - [ ] kitchen bar stools
 
 - [ ] buy danny a nice gaming laptop for thanksgiving/christmas
