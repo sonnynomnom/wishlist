@@ -1,4 +1,4 @@
-# 2019 wishlist
+# 2019 sonny's wishlist
 
 - [x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
 
