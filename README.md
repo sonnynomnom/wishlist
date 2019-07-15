@@ -4,7 +4,7 @@
 
 - [ ] kitchen bar stools
 
-- [ ] buy daniel a nice gaming computer
+- [ ] buy danny a nice gaming laptop for thanksgiving/christmas
 
 ---
 
