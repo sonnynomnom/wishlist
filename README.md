@@ -3,7 +3,7 @@
 - [x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
 - [x] ~[wood bar stools](https://www.amazon.com/dp/B001FB5K94/ref=cm_sw_em_r_mt_dp_U_0lNlDbSD5849J) $59~
 
-- [ ] [asus gaming laptop for danny (christmas)](https://www.amazon.com/ASUS-Vivobook-GeForce-Fingerprint-Backlit/dp/B07MKLLVFZ/ref=sr_1_4?qid=1563325372&refinements=p_89%3AAsus&s=electronics&sr=1-4) $634
+- [ ] [asus gaming laptop for daniel](https://www.amazon.com/ASUS-Vivobook-GeForce-Fingerprint-Backlit/dp/B07MKLLVFZ/ref=sr_1_4?qid=1563325372&refinements=p_89%3AAsus&s=electronics&sr=1-4) $634
 
 ---
 
