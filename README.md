@@ -2,9 +2,9 @@
 
 - [x] ~[prada wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
 - [x] ~[wood bar stools](https://www.amazon.com/dp/B001FB5K94/ref=cm_sw_em_r_mt_dp_U_0lNlDbSD5849J) $59~
-- [ ] trash can
+- [ ] trash can $139
 - [ ] window 
-- [ ] cat litter-box
+- [ ] cat litter-robot $499
 
 - fix alienware $599
 - upgrade alienware $999
