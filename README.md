@@ -14,7 +14,7 @@
 
 ---
 
-- telecaster $1499
+- [x] ~[telecaster](https://www.guitarcenter.com/Fender/Special-Edition-HH-Maple-Fingerboard-Standard-Telecaster-Sea-Foam-Pearl-1500000011253.gc?pfm=item_page.rrt1|PopularProductsInCategory#productDetail) $599~
 - orange amp $899
 - pedals
 
