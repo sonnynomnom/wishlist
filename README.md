@@ -1,5 +1,7 @@
 # 2019 sonny's wishlist
 
+- [ ] [asus gaming laptop for daniel](https://www.amazon.com/ASUS-Vivobook-GeForce-Fingerprint-Backlit/dp/B07MKLLVFZ/ref=sr_1_4?qid=1563325372&refinements=p_89%3AAsus&s=electronics&sr=1-4) $634
+
 - fix alienware $599
 
 - [ ] trash can $139
@@ -12,8 +14,6 @@
 
 - orange amp $899
 - pedals
-
-- [ ] [asus gaming laptop for daniel](https://www.amazon.com/ASUS-Vivobook-GeForce-Fingerprint-Backlit/dp/B07MKLLVFZ/ref=sr_1_4?qid=1563325372&refinements=p_89%3AAsus&s=electronics&sr=1-4) $634
 
 - tv $899
 - tv stand $299
