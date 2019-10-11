@@ -4,7 +4,7 @@
 
 - [ ] trash can $139
 - [ ] window 
-- [ ] cat litter-robot $499
+- [ ] cat litter-robot :(
 - upgrade alienware $999
 
 - [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
