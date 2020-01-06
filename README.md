@@ -4,7 +4,6 @@
 
 - [ ] fix alienware $599
 
-- [ ] trash can $139
 - [ ] window 
 - [ ] cat litter-robot :(
 - upgrade alienware $999
@@ -25,3 +24,4 @@
 - [x] ~[wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
 - [x] ~[gaming headset](https://steelseries.com/gaming-headsets/arctis-pro) $179~
 - [x] ~[bar stools](https://www.amazon.com/dp/B001FB5K94/ref=cm_sw_em_r_mt_dp_U_0lNlDbSD5849J) $59~
+- [x] [trash can](https://www.bedbathandbeyond.com/store/product/simplehuman-reg-55-liter-rectangular-step-trash-can-with-liner-pocket/3267260?categoryId=14368) $180~
