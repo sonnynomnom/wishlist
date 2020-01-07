@@ -1,3 +1,15 @@
+# trip 
+
+- [ ] camera
+- [ ] backpack
+- [ ] 2-3 tats
+- [ ] spanish book
+- [ ] shirts
+- [ ] flannel
+- [ ] pants
+- [ ] hiking boots
+- [ ] sunglasses
+
 # 2020 sonny wishlist
 
 - [ ] rug $499
