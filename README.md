@@ -9,6 +9,8 @@
 - [ ] pants
 - [ ] hiking boots
 - [ ] sunglasses
+- [ ] contacts
+- [ ] birkenstock
 
 # 2020 sonny wishlist
 
