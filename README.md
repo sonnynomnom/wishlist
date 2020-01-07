@@ -11,6 +11,8 @@
 - [ ] sunglasses
 - [ ] contacts
 - [ ] birkenstock
+- [ ] shots
+- [ ] pay back
 
 # 2020 sonny wishlist
 
