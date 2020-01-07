@@ -1,24 +1,25 @@
 # trip 
 
-- [ ] camera
-- [ ] backpack
-- [ ] 2-3 tats
-- [ ] spanish book
-- [ ] shirts
+- [ ] **camera**
+- [ ] **backpack**
+- [ ] **2-3 tats**
+- [ ] **spanish book**
+- [ ] **shirts**
+- [ ] **pants**
+- [ ] **birkenstock**
 - [ ] flannel
-- [ ] pants
 - [ ] hiking boots
 - [ ] sunglasses
 - [ ] contacts
 - [ ] birkenstock
-- [ ] shots
+- [ ] get shots
 - [ ] pay back
 
 # 2020 sonny wishlist
 
-- [ ] rug $499
+- [ ] **rug $499**
+- [ ] **window curtains $99**
 - [ ] coffee table $199
-- [ ] window curtains $99
 
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
 
