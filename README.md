@@ -3,7 +3,6 @@
 - [ ] **camera**
 - [ ] **backpack**
 - [ ] **2-3 tats**
-- [ ] **spanish book**
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
@@ -13,7 +12,7 @@
 - [ ] contacts
 - [ ] birkenstock
 - [ ] get shots
-- [ ] pay back
+- [ ] pay back l
 
 # 2020 sonny wishlist
 
