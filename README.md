@@ -2,7 +2,10 @@
 
 - [ ] **camera**
 - [ ] **backpack**
-- [ ] **2-3 tats**
+- [ ] ***_* tat**
+- [ ] **chest tat**
+- [ ] **arm tat**
+- [ ] **leg tat**
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
