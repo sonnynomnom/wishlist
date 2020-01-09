@@ -2,7 +2,7 @@
 
 - [ ] **camera**
 - [ ] **backpack**
-- [ ] ***_* tat**
+- [ ] **\*_\* tat**
 - [ ] **chest tat**
 - [ ] **arm tat**
 - [ ] **leg tat**
