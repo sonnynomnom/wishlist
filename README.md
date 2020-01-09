@@ -16,6 +16,7 @@
 - [ ] birkenstock
 - [ ] get shots
 - [ ] pay back l
+- [ ] running shoe
 
 # 2020 sonny wishlist
 
