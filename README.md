@@ -20,7 +20,6 @@
 
 # 2020 sonny wishlist
 
-- [ ] **rug $499**
 - [ ] **window curtains $99**
 - [ ] coffee table $199
 
@@ -36,6 +35,8 @@
 - [ ] tv $899
 - [ ] tv stand $299
 - [ ] tv speakers $199
+
+- [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 
 ---
 
