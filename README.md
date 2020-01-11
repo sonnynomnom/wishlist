@@ -3,9 +3,8 @@
 - [ ] **camera**
 - [ ] **backpack**
 - [ ] **\*_\* tat**
-- [ ] **chest tat**
-- [ ] **arm tat**
-- [ ] **leg tat**
+- [ ] **a tat**
+- [ ] **l tat**
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
