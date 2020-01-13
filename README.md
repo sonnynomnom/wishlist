@@ -51,5 +51,5 @@
 - [x] ~[trash can](https://www.bedbathandbeyond.com/store/product/simplehuman-reg-55-liter-rectangular-step-trash-can-with-liner-pocket/3267260?categoryId=14368) $179~
 - [x] ~[leather executive chair](https://www.staples.com/La-Z-Boy-Winston-Leather-Executive-Office-Chair-Fixed-Arms-Brown-44763/product_1200191?cid=PS:GooglePLAs:1200191&ci_src=17588969&ci_sku=1200191&KPID=1200191&gclid=Cj0KCQjwitPnBRCQARIsAA5n84mUs2W06Lc929BdX1gOYsLOOUdbAPg2RAHakKeF12AKmiBVfypQHMEaApw4EALw_wcB) $369~
 - [x] ~[bar stools](https://www.amazon.com/dp/B001FB5K94/ref=cm_sw_em_r_mt_dp_U_0lNlDbSD5849J) $59~
-- [ ] cat litter-robot :(
+- [ ] cat litter-robot :*(
 
