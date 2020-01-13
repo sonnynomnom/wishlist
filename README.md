@@ -21,8 +21,10 @@
 # 2020 sonny wishlist
 
 - [ ] **window curtains $99**
-- [ ] lamp
+- [ ] lighting
 - [ ] coffee table $199
+- [ ] never sleeps cug $10
+- [ ] penchant
 
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
 
@@ -33,6 +35,7 @@
 
 - [ ] orange amp $899
 - [ ] pedals
+
 - [ ] tv $899
 - [ ] tv stand $299
 - [ ] tv speakers $199
