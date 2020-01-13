@@ -1,8 +1,6 @@
 # trip 
 
 - [ ] **camera**
-- [ ] **backpack** bradley mountain
-
 - [ ] **\*_\* tat**
 - [ ] **a tat**
 - [ ] **l tat**
@@ -17,6 +15,8 @@
 - [ ] get yellow fever shots
 - [ ] pay back l
 - [ ] running shoe
+
+- [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 
 # 2020 sonny wishlist
 
