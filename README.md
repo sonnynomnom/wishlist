@@ -7,11 +7,10 @@
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
-- [ ] flannel
+- [ ] **contacts**
 - [ ] hiking boots
+- [ ] flannel
 - [ ] sunglasses
-- [ ] contacts
-- [ ] birkenstock
 - [ ] get yellow fever shots
 - [ ] pay back l
 - [ ] running shoe
