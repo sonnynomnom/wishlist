@@ -1,7 +1,8 @@
 # trip 
 
 - [ ] **camera**
-- [ ] **backpack**
+- [ ] **backpack** bradley mountain
+
 - [ ] **\*_\* tat**
 - [ ] **a tat**
 - [ ] **l tat**
@@ -13,7 +14,7 @@
 - [ ] sunglasses
 - [ ] contacts
 - [ ] birkenstock
-- [ ] get shots
+- [ ] get yellow fever shots
 - [ ] pay back l
 - [ ] running shoe
 
@@ -25,10 +26,10 @@
 
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
 
-- [ ] [asus gaming laptop for daniel](https://www.amazon.com/ASUS-Vivobook-GeForce-Fingerprint-Backlit/dp/B07MKLLVFZ/ref=sr_1_4?qid=1563325372&refinements=p_89%3AAsus&s=electronics&sr=1-4) $634
-
 - [ ] fix alienware $599
 - [ ] upgrade alienware $999
+
+- [ ] something good for daniel
 
 - [ ] orange amp $899
 - [ ] pedals
