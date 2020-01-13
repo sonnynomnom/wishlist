@@ -22,8 +22,8 @@
 - [ ] **window curtains $99**
 - [ ] lighting
 - [ ] coffee table $199
-- [ ] never sleeps cug $10
-- [ ] penchant
+- [ ] [happy to serve you coffe cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $14
+- [ ] [pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25
 
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
 
