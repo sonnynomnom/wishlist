@@ -2,8 +2,7 @@
 
 - [ ] **camera**
 - [ ] **\*_\* tat**
-- [ ] **a tat**
-- [ ] **l tat**
+- [ ] **tat**
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
