@@ -14,7 +14,7 @@
 - [ ] running shoe
 
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
-- [x] ~yellow fever shots $260~
+- [x] ~yellow fever shot $260~
 
 # 2020 sonny wishlist
 
