@@ -1,6 +1,6 @@
 # trip 
 
-- [ ] **camera**
+- [ ] **film camera**
 - [ ] **\*_\* tat**
 - [ ] **tat**
 - [ ] **shirts**
@@ -10,11 +10,11 @@
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] get yellow fever shots
 - [ ] pay back l
 - [ ] running shoe
 
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
+- [x] ~yellow fever shots $260~
 
 # 2020 sonny wishlist
 
