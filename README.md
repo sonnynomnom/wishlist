@@ -10,8 +10,10 @@
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] pay back l
+- [ ] pay back l 1/2 (check)
+- [ ] pay back l 2/2 (check)
 - [ ] running shoe
+- [ ] ha and t shots
 
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
