@@ -2,7 +2,7 @@
 
 - [ ] **film camera**
 - [ ] **\*_\* tat**
-- [ ] **tat**
+- [ ] **tat** thirty three
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
@@ -10,7 +10,6 @@
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] pay back l 1/2 (check)
 - [ ] pay back l 2/2 (check)
 - [ ] running shoe
 - [ ] ha and t shots
