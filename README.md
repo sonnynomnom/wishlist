@@ -10,9 +10,10 @@
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] pay back l 2/2 (check)
+- [ ] pay back l 2/2
 - [ ] running shoe
 - [ ] ha and t shots
+- [ ] williamsburg hat store
 
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
@@ -22,9 +23,7 @@
 - [ ] **window curtains $99**
 - [ ] lighting
 - [ ] coffee table $199
-- [ ] [happy to serve you coffe cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $14
 - [ ] [pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25
-
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
 
 - [ ] fix alienware $599
@@ -40,6 +39,7 @@
 - [ ] tv speakers $199
 
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
+- [x] ~[happy to serve you coffe cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $14~
 
 ---
 
