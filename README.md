@@ -39,7 +39,7 @@
 - [ ] tv speakers $199
 
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
-- [x] ~[happy to serve you coffe cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $14~
+- [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $14~
 
 ---
 
