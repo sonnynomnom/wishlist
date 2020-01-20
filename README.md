@@ -21,6 +21,8 @@
 # 2020 sonny wishlist
 
 - [ ] **window curtains $99**
+- [ ] coat hangers
+- [ ] [pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25
 - [ ] lighting
 - [ ] coffee table $199
 - [ ] [pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25
