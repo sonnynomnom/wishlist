@@ -24,19 +24,20 @@
 - [ ] **lighting**
 - [ ] **coffee table $199**
 - [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
+
 - [ ] fix alienware $599
 - [ ] upgrade alienware $999
 - [ ] something good for daniel
-- [ ] orange amp $899
+- [ ] orange amp $900
 - [ ] pedals
-- [ ] tv $899
-- [ ] tv stand $299
-- [ ] tv speakers $199
+- [ ] tv $900
+- [ ] tv stand $300
+- [ ] tv speakers $200
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 - [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
 - [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
-
+- [x] ~[laundry basket](https://www.amazon.com/gp/product/B07GZRP348) $40~
 ---
 
 # 2019 sonny wishlist
