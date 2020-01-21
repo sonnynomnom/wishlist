@@ -34,10 +34,11 @@
 - [ ] tv stand $300
 - [ ] tv speakers $200
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
-- [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
-- [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
+- [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
 - [x] ~[laundry basket](https://www.amazon.com/gp/product/B07GZRP348) $40~
+- [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
+
 ---
 
 # 2019 sonny wishlist
