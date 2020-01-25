@@ -2,7 +2,6 @@
 
 - [ ] **film camera**
 - [ ] **\*_\* tat**
-- [ ] **tat** thirty three
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
