@@ -36,6 +36,7 @@
 - [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
 - [x] ~[laundry basket](https://www.amazon.com/gp/product/B07GZRP348) $40~
 - [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
+- [x] ~[tintype](https://borucki.com/tintype/greenpointers) $100~
 - [x] ~window curtains & rods $180~
 
 ---
