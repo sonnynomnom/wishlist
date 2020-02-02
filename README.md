@@ -13,6 +13,7 @@
 - [ ] running shoe
 - [ ] ha and t shots
 - [ ] williamsburg hat store
+- [ ] knickerbocker shirt
 
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
