@@ -5,7 +5,6 @@
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
-- [ ] **contacts**
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
