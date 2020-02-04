@@ -22,8 +22,6 @@
 
 - [ ] **lighting**
 - [ ] **coffee table $199**
-- [ ] [office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-Charcoal-Legs-104000+%3A+105515.html) $900
-
 - [ ] fix alienware $599
 - [ ] upgrade alienware $999
 - [ ] something good for daniel
@@ -32,6 +30,7 @@
 - [ ] tv $900
 - [ ] tv stand $300
 - [ ] tv speakers $200
+- [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
 - [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
