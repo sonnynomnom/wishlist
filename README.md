@@ -1,14 +1,12 @@
 # trip 
 
 - [ ] **film camera**
-- [ ] **\*_\* tat**
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
 - [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] pay back l 2/2
 - [ ] running shoe
 - [ ] ha and t shots
 - [ ] williamsburg hat store
