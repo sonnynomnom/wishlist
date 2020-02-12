@@ -4,16 +4,14 @@
 - [ ] **shirts**
 - [ ] **pants**
 - [ ] **birkenstock**
-- [ ] hiking boots
 - [ ] flannel
 - [ ] sunglasses
-- [ ] running shoe
-- [ ] ha and t shots
-- [ ] williamsburg hat store
 - [ ] knickerbocker shirt
 
+- [x] ~[hiking boots](asdf)
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
+- [x] ~hep a and typhoid shot $30~
 
 # 2020 sonny wishlist
 
