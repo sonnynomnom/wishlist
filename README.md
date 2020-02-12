@@ -3,7 +3,6 @@
 - [ ] **film camera**
 - [ ] **shirts**
 - [ ] **pants**
-- [ ] **birkenstock**
 - [ ] flannel
 - [ ] sunglasses
 - [ ] knickerbocker shirt
