@@ -2,6 +2,10 @@
 
 - [ ] **lighting**
 - [ ] **coffee table $199**
+- [ ] **new shirts**
+- [ ] **new pants**
+- [ ] flannel
+- [ ] knickerbocker shirt
 - [ ] fix alienware $599
 - [ ] upgrade alienware $999
 - [ ] something good for daniel
@@ -10,12 +14,7 @@
 - [ ] tv $900
 - [ ] tv stand $300
 - [ ] tv speakers $200
-- [ ] **film camera**
-- [ ] **shirts**
-- [ ] **pants**
-- [ ] flannel
-- [ ] sunglasses
-- [ ] knickerbocker shirt
+- [ ] film camera
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
