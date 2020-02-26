@@ -1,11 +1,4 @@
-# trip 
-
-- [ ] **film camera**
-- [ ] **shirts**
-- [ ] **pants**
-- [ ] flannel
-- [ ] sunglasses
-- [ ] knickerbocker shirt
+# trip
 
 - [x] ~[hiking boots](https://www.rei.com/product/163528/vasque-breeze-at-low-gtx-hiking-shoes-mens) $160~
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
@@ -24,6 +17,12 @@
 - [ ] tv $900
 - [ ] tv stand $300
 - [ ] tv speakers $200
+- [ ] **film camera**
+- [ ] **shirts**
+- [ ] **pants**
+- [ ] flannel
+- [ ] sunglasses
+- [ ] knickerbocker shirt
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
