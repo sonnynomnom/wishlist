@@ -3,9 +3,11 @@
 - [ ] **lighting**
 - [ ] **coffee table $199**
 - [ ] **new shirts**
+- [ ] **new linen pants**
 - [ ] **new pants**
 - [ ] flannel
 - [ ] knickerbocker shirt
+- [ ] blazer
 - [ ] fix alienware $599
 - [ ] upgrade alienware $999
 - [ ] something good for daniel
@@ -17,13 +19,13 @@
 - [ ] film camera
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
+- [x] ~[hoodie](https://www.upstatestock.com/collections/tops/products/grey-hoodie)~ $100
 - [x] ~[pennant](https://www.upstatestock.com/collections/decor/products/oxford-pennant-not-all-who-wanter-are-lost) $25~
 - [x] ~[coat hanger](https://www.etsy.com/listing/697906830/craftarea-wooden-natural-edge-vintage) $30~
 - [x] ~[laundry basket](https://www.amazon.com/gp/product/B07GZRP348) $40~
 - [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
 - [x] ~[tintype](https://borucki.com/tintype/greenpointers) $100~
 - [x] ~window curtains & rods $180~
-- [x] ~[hoodie](https://www.upstatestock.com/collections/tops/products/grey-hoodie)~ $100
 
 ---
 
