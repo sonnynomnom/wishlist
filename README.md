@@ -23,6 +23,7 @@
 - [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
 - [x] ~[tintype](https://borucki.com/tintype/greenpointers) $100~
 - [x] ~window curtains & rods $180~
+- [x] ~[hoodie](https://www.upstatestock.com/collections/tops/products/grey-hoodie)~ $100
 
 ---
 
