@@ -12,9 +12,6 @@
 - [ ] upgrade alienware $999
 - [ ] orange amp $900
 - [ ] pedals
-- [ ] tv $900
-- [ ] tv stand $300
-- [ ] tv speakers $200
 - [ ] film camera
 
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
