@@ -1,15 +1,17 @@
 # 2020 sonny wishlist
 
-- [ ] **lighting**
-- [ ] **coffee table $199**
-- [ ] **new shirts**
+- [ ] **wood coffee table $199**
+- [ ] **ipad**
+- [ ] **frame for picture**
+
+- [ ] **lamp**
 - [ ] **new linen pants**
 - [ ] **new pants**
 - [ ] flannel
 - [ ] knickerbocker shirt
 - [ ] blazer
 - [ ] orange amp $900
-- [ ] pedals
+- [ ] guitar pedal
 - [ ] film camera
 
 - [x] ~[alienware aurora ryzen desktop](https://www.dell.com/en-us/member/shop/desktop-computers/new-alienware-aurora-ryzen-edition-gaming-desktop/spd/alienware-aurora-r10-desktop) $2400~
