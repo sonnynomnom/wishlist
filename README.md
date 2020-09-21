@@ -1,15 +1,13 @@
 # 2020 sonny wishlist
 
 - [ ] **wood coffee table $199**
-- [ ] **ipad**
-- [ ] **frame for picture**
-
 - [ ] **lamp**
 - [ ] **new linen pants**
 - [ ] **new pants**
+- [ ] **ipad**
+- [ ] **blazer**
 - [ ] flannel
 - [ ] knickerbocker shirt
-- [ ] blazer
 - [ ] orange amp $900
 - [ ] guitar pedal
 - [ ] film camera
@@ -25,6 +23,7 @@
 - [x] ~[happy to serve you coffee cup](https://www.upstatestock.com/products/happy-to-serve-you-10oz) $15~
 - [x] ~[tintype](https://borucki.com/tintype/greenpointers) $100~
 - [x] ~window curtains & rods $180~
+- [x] ~picture frame $120~
 
 ---
 
