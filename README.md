@@ -1,11 +1,13 @@
 # 2020 sonny wishlist
 
+- [ ] patagonia retro fleece
 - [ ] **wood coffee table $199**
-- [ ] **lamp**
 - [ ] **new linen pants**
 - [ ] **new pants**
-- [ ] **ipad**
 - [ ] **blazer**
+- [ ] **ipad**
+- [ ] tv
+- [ ] tv stand
 - [ ] flannel
 - [ ] knickerbocker shirt
 - [ ] orange amp $900
