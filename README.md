@@ -29,14 +29,14 @@
 
 ---
 
-# 🇨🇴 trip
+## 🇨🇴 trip
 
 - [x] ~[hiking boots](https://www.rei.com/product/163528/vasque-breeze-at-low-gtx-hiking-shoes-mens) $160~
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
 - [x] ~hep a and typhoid shot $30~
 
-# 2019 sonny wishlist
+## 2019 sonny wishlist
 
 - [x] ~[tele](https://www.guitarcenter.com/Fender/Special-Edition-HH-Maple-Fingerboard-Standard-Telecaster-Sea-Foam-Pearl-1500000011253.gc?pfm=item_page.rrt1|PopularProductsInCategory#productDetail) $600~
 - [x] ~[wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
