@@ -4,6 +4,8 @@
 - [ ] **wood coffee table $199**
 - [ ] **new linen pants**
 - [ ] **new pants**
+- [ ] **blue linen shirt**
+- [ ] **brown shirt**
 - [ ] **blazer**
 - [ ] **ipad**
 - [ ] tv
