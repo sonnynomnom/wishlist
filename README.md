@@ -1,4 +1,4 @@
-# 2020 sonny wishlist
+## 2020 sonny wishlist
 
 - [ ] patagonia retro fleece
 - [ ] **wood coffee table $199**
