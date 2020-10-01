@@ -1,10 +1,11 @@
 ## 2020 sonny wishlist
 
-- [ ] patagonia retro fleece
+- [ ] **wolves within blue linen shirt**
+- [ ] **everlane pants**
+- [ ] **patagonia retro fleece**
 - [ ] **wood coffee table $199**
-- [ ] **new linen pants**
+- [ ] **knickerbocker orange shirt**
 - [ ] **new pants**
-- [ ] **blue linen shirt**
 - [ ] **brown shirt**
 - [ ] **blazer**
 - [ ] **ipad**
