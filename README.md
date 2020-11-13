@@ -9,6 +9,7 @@
 - [ ] **brown shirt**
 - [ ] **blazer**
 - [ ] **ipad**
+- [ ] **vessel** float
 - [ ] tv
 - [ ] tv stand
 - [ ] flannel
