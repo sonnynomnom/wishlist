@@ -2,17 +2,16 @@
 
 - [ ] **blue linen shirt**
 - [ ] **patagonia retro fleece**
+- [ ] **parka**
 - [ ] **wood coffee table $199**
-- [ ] **knickerbocker orange shirt**
+- [ ] **knickerbocker blazer**
 - [ ] **new pants**
 - [ ] **brown shirt**
-- [ ] **blazer**
 - [ ] **ipad**
 - [ ] **vessel** float
 - [ ] tv
 - [ ] tv stand
 - [ ] flannel
-- [ ] knickerbocker shirt
 - [ ] orange amp $900
 - [ ] guitar pedal
 - [ ] film camera
