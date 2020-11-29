@@ -5,8 +5,7 @@
 - [ ] **parka**
 - [ ] **wood coffee table $199**
 - [ ] **knickerbocker blazer**
-- [ ] **new pants**
-- [ ] **brown shirt**
+- [ ] **everlane new pants**
 - [ ] **ipad**
 - [ ] **vessel** float
 - [ ] tv
