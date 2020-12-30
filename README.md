@@ -1,4 +1,4 @@
-## 2020 sonny wishlist
+## 2021 sonny wishlist
 
 - [ ] **blue linen shirt**
 - [ ] **patagonia retro fleece**
@@ -13,6 +13,8 @@
 - [ ] orange amp $900
 - [ ] guitar pedal
 - [ ] film camera
+
+## 2020 wishlist
 
 - [x] ~[alienware aurora ryzen desktop](https://www.dell.com/en-us/member/shop/desktop-computers/new-alienware-aurora-ryzen-edition-gaming-desktop/spd/alienware-aurora-r10-desktop) $2400~
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
@@ -36,7 +38,7 @@
 - [x] ~yellow fever shot $260~
 - [x] ~hep a and typhoid shot $30~
 
-## 2019 sonny wishlist
+## 2019 wishlist
 
 - [x] ~[tele](https://www.guitarcenter.com/Fender/Special-Edition-HH-Maple-Fingerboard-Standard-Telecaster-Sea-Foam-Pearl-1500000011253.gc?pfm=item_page.rrt1|PopularProductsInCategory#productDetail) $600~
 - [x] ~[wallet](https://www.prada.com/us/en/men/accessories/wallets/products.saffiano_leather_wallet.2MO233_053_F0002.html) $395~
