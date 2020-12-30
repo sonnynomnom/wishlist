@@ -29,14 +29,14 @@
 - [x] ~picture frame 1 $120~
 - [x] ~picture frame 2 $150~
 
----
-
 ## 🇨🇴 trip
 
 - [x] ~[hiking boots](https://www.rei.com/product/163528/vasque-breeze-at-low-gtx-hiking-shoes-mens) $160~
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
 - [x] ~hep a and typhoid shot $30~
+
+---
 
 ## 2019 wishlist
 
