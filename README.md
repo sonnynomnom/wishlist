@@ -1,12 +1,13 @@
-## 2021 sonny wishlist
+## 2021 sonny's wishlist
 
-- [ ] **blue linen shirt**
+- [ ] knit my own scarf
+- [ ] **everlane new pants**
 - [ ] **patagonia retro fleece**
 - [ ] **wood coffee table $199**
 - [ ] **knickerbocker blazer**
-- [ ] **everlane new pants**
-- [ ] **ipad**
+- [ ] **blue linen shirt**
 - [ ] **vessel** float
+- [ ] **ipad**
 - [ ] tv
 - [ ] tv stand
 - [ ] flannel
@@ -35,8 +36,6 @@
 - [x] ~[backpack](https://www.bradleymountain.com/collections/bags/products/the-biographer-charcoal) $325~
 - [x] ~yellow fever shot $260~
 - [x] ~hep a and typhoid shot $30~
-
----
 
 ## 2019 wishlist
 
