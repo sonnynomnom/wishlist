@@ -2,7 +2,6 @@
 
 - [ ] **blue linen shirt**
 - [ ] **patagonia retro fleece**
-- [ ] **parka**
 - [ ] **wood coffee table $199**
 - [ ] **knickerbocker blazer**
 - [ ] **everlane new pants**
@@ -17,6 +16,7 @@
 
 - [x] ~[alienware aurora ryzen desktop](https://www.dell.com/en-us/member/shop/desktop-computers/new-alienware-aurora-ryzen-edition-gaming-desktop/spd/alienware-aurora-r10-desktop) $2400~
 - [x] ~[office desk](https://www.poppin.com/Series-A-Executive-Desk%2C-Natural-Oak%2C-72%22%2C-White-Legs-103999+%3A+105510.html) $900~
+- [x] ~[parka](https://www.patagonia.com/product/mens-frozen-range-parka/27975.html) $700~
 - [x] ~[rug](https://aelfie.com/products/kiki-shag-5x8?variant=15817523036263) $525~
 - [x] ~[whiteboard](https://www.amazon.com/gp/product/B01J50F8PM/ref=ppx_yo_dt_b_asin_title_o00_s00) $60~
 - [x] ~[hoodie](https://www.upstatestock.com/collections/tops/products/grey-hoodie)~ $100
