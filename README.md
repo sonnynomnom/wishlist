@@ -6,7 +6,6 @@
 - [ ] **wood coffee table $199**
 - [ ] **knickerbocker blazer**
 - [ ] **blue linen shirt**
-- [ ] **vessel** float
 - [ ] **ipad**
 - [ ] tv
 - [ ] tv stand
