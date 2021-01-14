@@ -2,7 +2,6 @@
 
 - [ ] knit my own scarf
 - [ ] **everlane new pants**
-- [ ] **patagonia retro fleece**
 - [ ] **wood coffee table $199**
 - [ ] **knickerbocker blazer**
 - [ ] **blue linen shirt**
